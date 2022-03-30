@@ -1,5 +1,5 @@
 {
-  "name": "crm-api",
+  "name": "crm_backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
